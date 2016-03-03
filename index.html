@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Wavey Logo</title>
+	<style>
+		#loadingIcon {
+			position: relative;
+			background: black;
+			display: block;
+		}
+
+		#loadingIcon:after {
+			content: 'Loading..';
+			display: block;
+		}
+	</style>
+</head>
+
+<body>
+
+<p>Embedded css transitions, loaded via an object (nasty)
+<object type="image/svg" data="logo.svg">Mo Logo</object>
+</p>
+<p>actual svg transitions (not as pretty, harder to do, but an img tag!)
+<img src="logo2.svg">
+</p>
+
+</body>
+</html>

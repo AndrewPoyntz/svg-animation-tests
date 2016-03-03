@@ -1,0 +1,87 @@
+<svg  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150"
+	 overflow="hidden" enable-background="new 0 0 150 150" xml:space="preserve">
+	<path fill="#D6DF23" class="top wave" d="M43.993,57.379c-12.916,2.917-25.378-0.971-38.312-5.368v-7.817
+	c6.591,1.467,13.421,1.702,20.257,0.259c26.608-5.884,47.853-42.473,87.127-24.888c37.107,16.33,79.55,1.446,84.939-0.508v18.062
+	c-17.097,3.665-43.212,5.864-67.121-4.628C91.592,14.924,70.352,51.52,43.993,57.379">
+		<animateTransform attributeType="xml"
+						  attributeName="transform"
+						  type="translate"
+						  from="-45"
+						  to="-45"
+						  dur="0s"
+						  repeatCount="1"/>
+		<animateTransform attributeType="xml"
+						  attributeName="transform"
+						  type="translate"
+						  from="-45"
+						  to="-45"
+						  dur="2s"
+						  values="-45; -40; -10; -5; -10; -45"
+						  begin="0.2s"
+						  keyTimes="0; 0.1; 0.4; 0.5; 0.6; 1"
+						  repeatCount="indefinite"/>
+	</path>
+	<path fill="#D6DF23" class="second wave" d="M77.678,80.543
+	c26.37-5.833,47.586-42.445,86.893-24.876c10.975,4.887,22.455,6.837,33.434,7.565V49.571c-15.391,1.467-33.934,0.723-51.252-7.074
+	c-39.295-17.341-60.515,19.27-86.866,25.129C41.808,71.77,24.735,62.012,5.681,56.892v10.247
+	C32.528,68.108,54.253,85.931,77.678,80.543">
+		<animateTransform attributeType="xml"
+						  attributeName="transform"
+						  type="translate"
+						  from="-45"
+						  to="-45"
+						  dur="0s"
+						  repeatCount="1"/>
+		<animateTransform attributeType="xml"
+						  attributeName="transform"
+						  type="translate"
+						  from="-45"
+						  to="-45"
+						  dur="2s"
+						  values="-45; -40; -10; -5; -10; -45"
+						  begin="0.4s"
+						  keyTimes="0; 0.1; 0.4; 0.5; 0.6; 1"
+						  repeatCount="indefinite"/></path>
+	<path fill="#D6DF23" class="third wave" d="M105.503,103.736
+	c26.358-5.851,47.833-42.455,87.111-25.142c1.723,0.984,3.44,1.47,5.39,2.207v-8.544c-7.824-1.226-15.62-3.17-23.192-6.592
+	c-39.303-17.564-60.782,19.292-87.125,24.891c-25.871,6.109-49.542-16.351-80.768-12.92H5.681v18.778
+	c5.863-2.926,12.206-5.123,19.054-5.858C55.96,87.146,79.632,109.594,105.503,103.736">
+		<animateTransform attributeType="xml"
+						  attributeName="transform"
+						  type="translate"
+						  from="-45"
+						  to="-45"
+						  dur="0s"
+						  repeatCount="1"/>
+		<animateTransform attributeType="xml"
+						  attributeName="transform"
+						  type="translate"
+						  from="-45"
+						  to="-45"
+						  dur="2s"
+						  values="-45; -40; -10; -5; -10; -45"
+						  begin="0.6s"
+						  keyTimes="0; 0.1; 0.4; 0.5; 0.6; 1"
+						  repeatCount="indefinite"/></path>
+	<path fill="#D6DF23" class="bottom wave" d="M115.502,112.283c-25.856,5.862-49.545-16.595-81.018-13.197c-10.253,1.002-19.769,5.868-28.803,11.975
+	v27.563c7.571-8.529,23.187-22.938,46.632-24.877c31.483-2.686,55.144,19.268,81.253,13.185
+	c20.747-4.638,38.57-28.309,64.438-29.778V85.193C161.639,72.759,140.897,106.66,115.502,112.283">
+		<animateTransform attributeType="xml"
+						  attributeName="transform"
+						  type="translate"
+						  from="-45"
+						  to="-45"
+						  dur="0s"
+						  repeatCount="1"/>
+		<animateTransform attributeType="xml"
+						  attributeName="transform"
+						  type="translate"
+						  from="-45"
+						  to="-45"
+						  dur="2s"
+						  values="-45; -40; -10; -5; -10; -45"
+						  begin="0.8s"
+						  keyTimes="0; 0.1; 0.4; 0.5; 0.6; 1"
+						  repeatCount="indefinite"/>
+	</path>
+</svg>
